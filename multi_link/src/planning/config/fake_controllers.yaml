@@ -1,0 +1,5 @@
+controller_list:
+  - name: fake_motor_controller
+    joints:
+      - joint_ground_link1
+      - joint_link1_link2

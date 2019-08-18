@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/yanhao/Desktop/ROS/ROS_moveit/multi_link/double_link.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/double_link.srdf
+  CONFIG:
+    author_name: Yanhao Zhu
+    author_email: yhzhu@umich.edu
+    generated_timestamp: 1566152229

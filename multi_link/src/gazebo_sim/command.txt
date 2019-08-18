@@ -1,0 +1,3 @@
+roslaunch gazebo_ros empty_world.launch paused:=true use_sim_time:=false gui:=true throttled:=false recording:=false debug:=true
+
+rosrun gazebo_ros spawn_model -file urdf/double_link.urdf -urdf -x 0 -y 0 -z 1 -model double_link
