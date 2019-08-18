@@ -1,0 +1,2 @@
+visualize_robot
+-DCATKIN_DEVEL_PREFIX=/home/yanhao/Desktop/ROS/ROS_moveit/multi_link/devel -DCMAKE_INSTALL_PREFIX=/home/yanhao/Desktop/ROS/ROS_moveit/multi_link/install -G Unix Makefiles

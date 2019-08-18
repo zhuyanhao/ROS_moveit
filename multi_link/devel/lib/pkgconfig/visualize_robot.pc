@@ -1,0 +1,8 @@
+prefix=/home/yanhao/Desktop/ROS/ROS_moveit/multi_link/devel
+
+Name: visualize_robot
+Description: Description of visualize_robot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/yanhao/Desktop/ROS/ROS_moveit/multi_link/devel/lib 
+Requires: 
