@@ -1,0 +1,4 @@
+<launch>
+  <node name="plan_and_record" pkg="planning" type="plan_and_record.py" respawn="false" output="screen">
+  </node>
+</launch>

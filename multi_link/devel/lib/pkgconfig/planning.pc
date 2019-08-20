@@ -1,0 +1,8 @@
+prefix=/home/yanhao/Desktop/ROS/ROS_moveit/multi_link/devel
+
+Name: planning
+Description: Description of planning
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/yanhao/Desktop/ROS/ROS_moveit/multi_link/devel/lib 
+Requires: 
